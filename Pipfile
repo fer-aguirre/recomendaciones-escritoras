@@ -11,6 +11,9 @@ pathlib = "*"
 pandas = "*"
 numpy = "*"
 requests = "*"
+streamlit = "*"
+recomendaciones-escritoras = {editable = true, path = "."}
+beautifulsoup4 = "*"
 
 [dev-packages]
 
