@@ -447,7 +447,7 @@ opencv-python==4.5.5.64
   - numpy [required: >=1.17.3, installed: 1.21.0]
   - numpy [required: >=1.14.5, installed: 1.21.0]
 openpyxl==3.0.3
-OWSLib==0.19.1
+OWSLib==0.28.1
 palettable==3.3.0
 pandocfilters==1.4.2
 paramiko==2.6.0
