@@ -545,7 +545,7 @@ PyGithub==1.43.7
 PyGObject==3.36.0
   - pycairo [required: >=1.11.1, installed: 1.16.2]
 pyinotify==0.9.6
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyLDAvis==3.2.1
   - funcy [required: Any, installed: 1.16]
   - future [required: Any, installed: 0.18.2]
