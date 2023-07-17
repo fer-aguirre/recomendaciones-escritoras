@@ -537,7 +537,7 @@ prettymaps==1.0.0
     - Shapely [required: >=1.7, installed: 1.7.1]
   - tabulate [required: ==0.8.9, installed: 0.8.9]
 prometheus-client==0.7.1
-protobuf==3.6.1
+protobuf==3.18.3
 psycopg2==2.8.4
 py==1.8.1
 pycups==1.9.73
