@@ -539,7 +539,7 @@ prettymaps==1.0.0
 prometheus-client==0.7.1
 protobuf==3.18.3
 psycopg2==2.8.4
-py==1.8.1
+py==1.11.0
 pycups==1.9.73
 PyGithub==1.43.7
 PyGObject==3.36.0
