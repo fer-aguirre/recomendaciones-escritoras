@@ -814,7 +814,7 @@ spacy-spanish-lemmatizer==0.6
       - click [required: >=7.1.1,<7.2.0, installed: 7.1.2]
     - wasabi [required: >=0.8.1,<1.1.0, installed: 0.8.2]
 spotify-14feb==0.1.0
-spotipy==2.16.1
+spotipy==2.22.1
   - requests [required: >=2.20.0, installed: 2.26.0]
     - certifi [required: >=2017.4.17, installed: 2020.12.5]
     - charset-normalizer [required: ~=2.0.0, installed: 2.0.7]
