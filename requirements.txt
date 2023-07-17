@@ -18,7 +18,7 @@ autopep8==1.6.0
   - toml [required: Any, installed: 0.10.2]
 awscli==1.18.69
 bcrypt==3.1.7
-bleach==3.1.1
+bleach==3.3.0
 blinker==1.4
 bokeh==2.4.0
   - Jinja2 [required: >=2.9, installed: 3.0.1]
