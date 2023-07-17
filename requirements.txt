@@ -59,7 +59,7 @@ colorlover==0.3.0
 command-not-found==0.3
 config==0.5.1
 configobj==5.0.6
-cookiecutter==1.7.3
+cookiecutter==2.1.1
   - binaryornot [required: >=0.4.4, installed: 0.4.4]
     - chardet [required: >=3.0.2, installed: 3.0.4]
   - click [required: >=7.0, installed: 7.1.2]
